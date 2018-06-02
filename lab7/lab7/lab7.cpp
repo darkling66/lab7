@@ -2,7 +2,7 @@
 //
 
 #include "stdafx.h"
-#include "Matrix.h"
+#include "matrix.h"
 
 int main()
 {
