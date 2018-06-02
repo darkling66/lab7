@@ -1,5 +1,5 @@
 #include "stdafx.h"
-#include "Matrix.h"
+#include "matrix.h"
 
 Matrix::Matrix(int row, int col)
 {
